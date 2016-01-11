@@ -1,0 +1,32 @@
+{
+  "name": "thereactproject",
+  "version": "1.0.0",
+  "description": "1st",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.9.3",
+    "express": "^4.13.3",
+    "normalize.css": "^3.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.0.2",
+    "postcss-cli": "^2.1.0",
+    "postcss-import": "^7.0.0"
+  },
+  "scripts": {
+    "test": "dotest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/irina9215/theFirstReactApp.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "irina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irina9215/theFirstReactApp/issues"
+  },
+  "homepage": "https://github.com/irina9215/theFirstReactApp#readme"
+}
